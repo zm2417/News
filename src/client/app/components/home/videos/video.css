@@ -1,0 +1,24 @@
+.homeVideo{
+    height: 400px;
+    width:100%;
+}
+
+.bFang{
+    background: url('./img-sp.png') no-repeat -1px -80px;
+    width: 72px;
+    height: 72px;
+    position: absolute;
+    bottom: 8%;
+    left: 8%;
+}
+
+.videoWenZi{
+    position: absolute;
+    bottom: 6%;
+    left: 23%;
+    width: 75%;
+}
+
+.videoRightH3{
+    text-align:center;
+}

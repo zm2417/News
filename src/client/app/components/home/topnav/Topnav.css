@@ -1,0 +1,9 @@
+.search{
+    display: inline;
+    float:right;
+    width:250px;
+    position:absolute;
+    left:80%;
+    top:8px;
+
+}

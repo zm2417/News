@@ -1,0 +1,40 @@
+.bottomH4{
+    text-align: center;
+}
+
+.bottom{
+    background-color: black;
+}
+
+.img{
+    background: url("./2.png") no-repeat 0px 0px;
+    display: block;
+    padding-left: 4em;
+    font-size: .8em;
+    color: white;
+    text-transform: uppercase;
+    line-height: 1.8em;
+    margin-bottom: 1em;
+}
+
+.img a{
+    color:#f5f5f5;
+}
+
+.form{
+    background-color: black;
+    color: white;
+    width:85%;
+    margin-left:20px;
+}
+
+.bTJ{
+    margin-left:10px;
+    text-align:center;
+    width: 30%;
+}
+
+.bottomP{
+    color:white;
+    font-size:14px;
+}

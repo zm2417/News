@@ -1,0 +1,55 @@
+.login_back{
+    background: url('./bg.jpg');
+    height: 100%;
+}
+
+.wrapper{
+    margin: 0 auto;
+    width: 400px;
+    height: auto;
+    position: relative;
+    border: 1px solid rgba(147,184,189,0.8);
+}
+
+.wrapper h1{
+    text-align: center;
+    color:#1d3c41;
+}
+
+.wrapper hr{
+    height: 1px;
+    width: 100%;
+    text-align: center;
+    border: none;
+    border-top:3px solid #f5f5f5 ;
+}
+
+.login_form{
+    width: 300px;
+    margin: 0 auto;
+}
+
+.login_form input{
+    width: 98%;
+}
+
+.zhiZhu input{
+    width: auto;
+}
+
+.toLogin{
+    height:14px;
+}
+
+.toLogin input{
+    width: 60px;
+    float: right;
+}
+
+.toRegister{
+    margin-left: 190px;
+}
+
+.yanzhenma{
+    width: 50%;
+}

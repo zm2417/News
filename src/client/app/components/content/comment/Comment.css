@@ -1,0 +1,135 @@
+.comment{
+    padding-left: 40px;
+    margin-top:50px;
+}
+
+.commentList{
+    border: solid 1px #e7eaf2;
+    padding:10px;
+    margin-top:20px;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px 0 rgba(0,33,77,.05);
+    background:#fff;
+}
+
+.commentIcon{
+    font-size: 24px;
+}
+
+.commentB{
+    border:none;
+    border-radius: 0px;
+    background-color: transparent;
+    line-height: inherit;
+    margin-left:24px;
+    color: #8590a6;
+    font-size: 15px;
+}
+
+.kuma-popover-inner{
+    min-width:100px;
+    padding:0px;
+    height: 80px;
+}
+
+.commentBli{
+    height:40px;
+    border:none;
+    border-radius: 0px;
+    background-color: #f4f8fb;
+    line-height: inherit;
+    font-size: 14px;
+    text-align:center;
+    width: 100%;
+}
+
+.commentTop-title{
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 700;
+    color: #1e1e1e;
+}
+
+.commentTop-button{
+    border-bottom: 1px solid #fff;
+    color: #175199;
+    height: auto;
+    padding: 0;
+    line-height: inherit;
+    background-color: transparent;
+    border: none;
+    border-radius: 0px;
+    display: inline-block;
+    font-size: 14px;
+    text-align: center;
+    cursor: pointer;
+    float:right;
+    margin-top:20px;
+}
+
+.commentListItem{
+    border:1px solid #fff;
+}
+
+.commentTop-Hr{
+    margin-top:10px;
+    color:#e7eaf1;
+    height:2px;
+    border:none;
+    border-top:1px solid #e7eaf1;
+}
+
+.commentHead-time{
+    float: right;
+    font-size:14px;
+    color:#8590a6;
+}
+
+.test{
+    text-align:center;
+}
+
+.comment-pagination{
+    text-align: center;
+    margin:0 auto;
+}
+
+.comment-Btn{
+    float: right;
+}
+
+.comment-ListGroupItem{
+    border: none;
+}
+
+.Icon1--left {
+    margin-right: 6px;
+}
+.Icon1 {
+    vertical-align: text-bottom;
+    fill: #9fadc7;
+}
+
+.comment-dianzanBtn{
+    border:none;
+    border-radius: 0px;
+    background-color: transparent;
+    line-height: inherit;
+    color: #8590a6;
+    font-size: 14px;
+}
+
+.comment-dianzanBtn-right{
+    border:none;
+    border-radius: 0px;
+    background-color: transparent;
+    line-height: inherit;
+    color: #8590a6;
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+.comment-replayInput{
+    width:100%;
+    margin-bottom:10px;
+}

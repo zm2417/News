@@ -1,0 +1,38 @@
+.singleTop{
+    margin-top: 50px;
+    padding-left: 40px;
+    font-size: 16px;
+}
+
+.singleTop h1{
+    font-size:45px;
+}
+
+.icon{
+    font-size: 24px;
+}
+
+.singleP{
+    font-size:16px;
+    margin-top: 30px;
+}
+
+.singleAuthor{
+    height: 60px;
+    width: 60px;
+    float: left;
+}
+
+.singleHr{
+    height: 1px;border: none;border-top: 1px solid #d0d0d0;
+    margin-top: 10px;
+}
+
+.singleSpan{
+    color: #909090;
+    margin-left: 10px;
+}
+
+.singleContent{
+    margin-top: 55px;
+}

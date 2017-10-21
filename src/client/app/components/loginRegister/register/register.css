@@ -1,0 +1,14 @@
+.Register_back{
+    background: url('./bg.jpg');
+    height: 100%;
+    margin: 0 auto;
+}
+
+.toLogin{
+    margin-left: 200px;
+}
+
+.demo{
+    margin: 0 auto;
+    background: url('./bg.jpg');
+}

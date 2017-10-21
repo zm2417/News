@@ -1,0 +1,48 @@
+DialogContent-Item{
+    line-height:24px;
+    margin-bottom: 5px;
+}
+
+.DialogContent-headImage{
+    width:24px;
+    height:24px;
+    display: inline-block;
+    margin-right:8px;
+}
+
+.DialogContent-name{
+    line-height:24px;
+    font-size:15px;
+}
+
+.DialogContent-time{
+    float: right;
+    font-size:14px;
+    color:#8590a6;
+    line-height:24px;
+}
+
+.DialogContent-text{
+    margin-bottom: 6px;
+    line-height: 25px;
+    font-size:15px;
+}
+
+.DialogContent-dz{
+    border:none;
+    border-radius: 0px;
+    background-color: transparent;
+    line-height: inherit;
+    color: #8590a6;
+    font-size: 14px;
+}
+
+.DialogContent-btn{
+    border:none;
+    border-radius: 0px;
+    background-color: transparent;
+    line-height: inherit;
+    color: #8590a6;
+    font-size: 14px;
+    margin-left:8px;
+}
